@@ -24,3 +24,7 @@ group :development do
     gem 'quiet_assets'
     gem 'rails_layout'
 end
+
+#Figaro Gem for configuring enviornment variables
+gem 'figaro'
+
