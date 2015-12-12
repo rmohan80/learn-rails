@@ -28,3 +28,5 @@ end
 #Figaro Gem for configuring enviornment variables
 gem 'figaro'
 
+#Resolving startup error dependency
+gem 'tzinfo-data'
